@@ -1,0 +1,24 @@
+# Git 포터블 설치본 (git 바이너리는 커밋하지 않음)
+/Git/
+
+# Windows / 시스템 임시 파일
+TEQOVKK.DOCX
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Claude 로컬 설정 (이 컴퓨터 전용)
+.claude/settings.local.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

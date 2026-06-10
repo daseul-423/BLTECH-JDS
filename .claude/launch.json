@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "pms",
+      "runtimeExecutable": "C:\\Users\\태훈김\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "test1"],
+      "port": 5510
+    }
+  ]
+}
